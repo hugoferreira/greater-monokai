@@ -12,5 +12,5 @@ In Windows, copy the same .xml file to:
 
     %HOMEPATH%.IntelliJIdea11\config\colors
 
-
+Don't forget to import the settings jar file with `File -> Import Settings ...`
 
