@@ -1,5 +1,5 @@
 # What is Greater Monokai?
 
-It's a simple adaptation of the excellent Monokay color theme to IntelliJ, favoring "dark" choices, and optimized for Scala and Haskell.
+It's a simple adaptation of the excellent [Monokai](http://studiostyl.es/schemes/monokai) color theme to IntelliJ IDEA, favoring "dark" choices, and optimized for Scala and Haskell.
 
 
