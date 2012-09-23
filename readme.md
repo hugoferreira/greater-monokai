@@ -6,11 +6,11 @@ It's a simple adaptation of the excellent [Monokai](http://studiostyl.es/schemes
 
 In Mac OSX Lion, copy the .xml to:
 
-  ~/Library/Preferences/IdeaIC11/colors/
+    ~/Library/Preferences/IdeaIC11/colors/
 
 In Windows, copy the same .xml file to:
 
-  %HOMEPATH%.IntelliJIdea11\config\colors
+    %HOMEPATH%.IntelliJIdea11\config\colors
 
-
+Don't forget to import the settings jar file with `File -> Import Settings ...`
 
