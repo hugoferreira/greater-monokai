@@ -2,6 +2,8 @@
 
 It's a simple adaptation of the excellent [Monokai](http://studiostyl.es/schemes/monokai) color theme to IntelliJ IDEA, favoring "dark" choices, and optimized for Scala and Haskell.
 
+![Screenshot](https://raw.github.com/hugoferreira/greater-monokai/master/screenshot.png)
+
 # How to install
 
 In Mac OSX Lion, copy the .xml to:
