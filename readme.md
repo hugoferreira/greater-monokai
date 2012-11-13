@@ -4,6 +4,10 @@ It's a simple adaptation of the excellent [Monokai](http://studiostyl.es/schemes
 
 ![Screenshot](https://raw.github.com/hugoferreira/greater-monokai/master/screenshot.png)
 
+The theme is also compatible with IntelliJ 12 (preview). It is particularly pleasent with the Darcula (Dark) theme:
+
+![Screenshot-Darcula](https://raw.github.com/hugoferreira/greater-monokai/master/screenshot-darcula.png)
+
 # How to install
 
 In Mac OSX Lion, copy the .xml to:
